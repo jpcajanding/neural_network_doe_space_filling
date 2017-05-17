@@ -1,0 +1,2 @@
+Runs,Hidden_Layers,Hidden_Units,Learning_Rate,Batch_Size,Epoch,Dropout
+1,2,561,0.0001,128,1000,0.8
